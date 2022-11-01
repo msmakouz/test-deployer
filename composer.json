@@ -25,10 +25,11 @@
         "spiral/sapi-bridge": "^1.0"
     },
     "require-dev": {
+        "deployer/deployer": "^7.0",
         "nunomaduro/collision": "^6.2",
         "phpunit/phpunit": "^9.5",
-        "spiral/testing": "^2.0",
         "spiral-packages/ignition-bridge": "^1.0",
+        "spiral/testing": "^2.0",
         "symfony/var-dumper": "^6.0"
     },
     "scripts": {
