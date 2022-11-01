@@ -25,7 +25,6 @@
         "spiral/sapi-bridge": "^1.0"
     },
     "require-dev": {
-        "deployer/deployer": "^7.0",
         "nunomaduro/collision": "^6.2",
         "phpunit/phpunit": "^9.5",
         "spiral-packages/ignition-bridge": "^1.0",
